@@ -1,3 +1,5 @@
+Don't use this - very outdated
+
 # react-native-uuid-generator
 
 A simple wrapper around the native iOS and Android UUID classes.
